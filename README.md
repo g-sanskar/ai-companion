@@ -2,32 +2,22 @@
 
 Website live @ https://ai-companion-black-three.vercel.app/
 
-Features:
+You can login using demo credentials given below:
 
-- Tailwind design
-- Tailwind animations and effects
-- Full responsiveness
-- Clerk Authentication (Email, Google, 9+ Social Logins)
-- Client form validation and handling using react-hook-form
-- Server error handling using react-toast
-- Image Generation Tool (Open AI)
-- Video Generation Tool (Replicate AI)
-- Conversation Generation Tool (Open AI)
-- Music Generation Tool (Replicate AI)
-- Page loading state
-- Fetch data in server react components by directly accessing database
+1) Pro User
+   email - test@gmail.com
+   pass - test
 
+2) Normal User
+   email - test2@gmail.com
+   pass - test
+
+Morever if you want to add a demo card use card number as 4242 4242 4242 4242
 
 ### Cloning the repository
 
 ```shell
 git clone https://github.com/g-sanskar/ai-companion
-```
-
-### Install packages
-
-```shell
-npm i
 ```
 
 ### Setup .env file
@@ -82,7 +72,6 @@ node scripts/seed.ts
 npm run dev
 ```
 
-## Available commands
 
 Running commands with npm `npm run [command]`
 
