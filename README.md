@@ -17,9 +17,6 @@ Features:
 - Page loading state
 - Fetch data in server react components by directly accessing database
 
-### Prerequisites
-
-**Node version 18.x.x**
 
 ### Cloning the repository
 
